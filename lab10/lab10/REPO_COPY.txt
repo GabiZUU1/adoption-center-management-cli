@@ -1,0 +1,10 @@
+Maxwell,Bulldog,2,https://breed-assets.wisdompanel.com/dog/bulldog-standard/Bulldog4.png
+Luna,Labrador,3,https://www.animalepierdute.ro/wp-content/uploads/2019/08/Labrador-alert.jpg
+Bella,Golden Retriever,1,https://www.borrowmydoggy.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4ij0poqn%2Fproduction%2Fda89d930fc320dd912a2a25487b9ca86b37fcdd6-800x600.jpg&w=1080&q=80
+Gus,Beagle,3,https://www.zooplus.ro/ghid/wp-content/uploads/2021/07/despre-beagle.webp
+Duke,Rottweiler,2,https://image.petmd.com/files/styles/978x550/public/2023-12/rottweiler.jpg
+Teddy,Labrador,1,https://cdn.britannica.com/82/232782-050-8062ACFA/Black-labrador-retriever-dog.jpg
+Max,Bulldog,1,https://cdn.britannica.com/07/234207-050-0037B589/English-bulldog-dog.jpg
+Ruby,Poodle,1,https://image.petmd.com/files/styles/863x625/public/2023-01/toy-poodle.jpg
+Bella,Beagle,4,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDExam7cCVn98gUaB_VeE89aytrCF-ZHgNDg&s
+Max,Rottweiler,21,https://headsupfortails.com/blogs/dogs/caring-for-your-rottweiler
